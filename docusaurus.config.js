@@ -10,13 +10,13 @@ const katex = require('rehype-katex');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://ma2001.yuehern.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'yuehernkang', // Usually your GitHub org/user name.
+  projectName: 'ma2001', // Usually your repo name.
 
   presets: [
     [
